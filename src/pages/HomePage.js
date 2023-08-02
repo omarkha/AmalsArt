@@ -12,8 +12,8 @@ const HomePage = () => {
           <Zoom>
             <div className="usp">
               <h3>
-                De-Stress and Inspire Your Spirit as You Delve Into History with
-                The Traditional Mesopotamian Artwork On Your Wall
+                De-Stress and Get Inspired as You Delve Into Traditional
+                Mesopotamian Artwork
               </h3>
               <h5>By Artist Amal Maseer</h5>
               <img src={lamp} />
@@ -71,18 +71,18 @@ const HomePage = () => {
                 The ArtBridge was first founded in 19xx in Baghdad, Iraq by me
                 and some of my friends from the US. Our purpose was introducing
                 the West and particularly the US to Iraqi Art. But the world
-                changed drastically since then and people began to sink into
-                their technological gadgets, stress started to seep into peoples
+                changed drastically since then, people began to sink into their
+                technological gadgets, and stress started to seep into peoples
                 lives. So I figured I can help with my style of traditional
-                painting that reduces stress for you, makes you feel more
-                comfortable and offers you relaxed energy. At The ArtBridge we
+                painting to reduce stress for you, make you feel more
+                comfortable and offer you relaxed energy. At The ArtBridge we
                 value tradition, friendliness, and spirituality. We strive to
-                deliver art that spiritually inspires people in their personal
-                and professional lives. My artwork adds an inspiration and
-                sophistication to your environment. My mentor Hafiz Al-Doroubi
-                was the student of renown Spanish artist Salvador Dali, and so
-                the artwork that I create merges the best of Western art
-                concepts to the richness of Mesopotamian history and culture.
+                deliver art that inspires you spiritually in your personal and
+                professional life by adding inspiration and sophistication to
+                your environment. My mentor Hafiz Al-Doroubi was the student of
+                renown Spanish artist Salvador Dali, and so the artwork that I
+                create merges the best of Western art concepts to the richness
+                of Mesopotamian history and culture.
               </p>
             </div>
           </div>
